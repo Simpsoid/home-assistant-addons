@@ -1,9 +1,11 @@
-# seud0nym's Home Assistant Add-on Repository
+# seud0nym's Home Assistant Add-on Repository - Rolled back to Version 2025.11.23
 
 
 ## Add-on Repository Installation
 
 ### Automatic
+
+(This button links to this repo at version 2025.11.23)
 
 [![Open your Home Assistant instance and show the add add-on repository dialogue with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FSimpsoid%2Fhome-assistant-addons)
 
